@@ -20,8 +20,10 @@ git reset HEAD nomeDoArquivo
 git checkout hash
 git branch
 git reset HEAD~n //volta n commits
+git checkout hash
+git branch
+git reset HEAD~n //volta n commits
 git reset HEAD~n --soft //volta n commits e deixa eles prontos para serem commitados
-	--hard //apaga os commits e arquivos
+        --hard //apaga os commits e arquivos
 git checkout -b funcionalidade1
-
 
