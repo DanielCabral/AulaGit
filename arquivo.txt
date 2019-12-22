@@ -1,0 +1,7 @@
+git config --global user.name "Daniel Cabral"
+git config --global user.email "daniel-cabral14@hotmail.com"
+git config --global color.ui true
+git status
+git add arquivo.txt
+git commit -m "Meu Primeiro Commit"
+git log
